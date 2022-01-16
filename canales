@@ -1,5 +1,4 @@
-#EXTINF:-1 tvg-logo="https://tocahits.com/wp-content/uploads/2021/12/tocahits-transparencia-2-1024x432.png" group-title="MIX", Canal Urbano Top 100
-https://mix247.ml:444/TocaHits/Top100Mix24-7/chunks.m3u8?nimblesessionid=385826
+
 #EXTINF:-1 tvg-logo="https://mix24-7.com/wp-content/uploads/2018/07/CANAL-TOP-100.jpg" group-title="MIX", Top 100
 http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/2.m3u8  
 #EXTINF:-1 tvg-logo="https://tocahits.com/wp-content/uploads/2021/12/tocahits-transparencia-2-1024x432.png" group-title="MIX", Conciertos
