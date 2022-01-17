@@ -1,20 +1,12 @@
 
 #EXTINF:-1 tvg-logo="https://mix24-7.com/wp-content/uploads/2018/07/CANAL-TOP-100.jpg" group-title="MIX", Top 100
-http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/2.m3u8  
-#EXTINF:-1 tvg-logo="https://tocahits.com/wp-content/uploads/2021/12/tocahits-transparencia-2-1024x432.png" group-title="MIX", Conciertos
-http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/7.m3u8  
-#EXTINF:-1 tvg-logo="https://tocahits.com/wp-content/uploads/2021/12/tocahits-transparencia-2-1024x432.png" group-title="MIX", Puro Rock
-http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/25.m3u8  
-
+https://mix247.ml:444/TocaHits/Top100Mix24-7/chunks.m3u8?nimblesessionid=423063
 
 #EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/player_image/public/2021-11/Oldies%2520Hits%2520Television%2520de%2520Costa%2520Rica.png?itok=DJmiL1V7" group-title="MIX",  Oldies Hits TV
 https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w1783573940.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e49738a8073bf9b8d558abdeb0c17e76.webp" group-title="MIX", Escuchame Radio Tv
 https://stmv1.voxtvhd.com.br/escuchame/escuchame/chunklist_w712090104.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f74f66c35325bed6414d9b0b3c6fb616.webp" group-title="MIX", TVR Digital
-https://ok.ru/video/3131926453783?fromTime=19451
 
 #EXTINF:-1 tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/logo-atvmas-player.png" group-title="MIX", ATV+
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
@@ -366,70 +358,73 @@ https://edge.teveo.com.co/live/AeAAAgAJAAFFA1IAyADIQCAAAAAAAAAAAmBX3VGq9wMSAAAA/
 
 
 
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.alertageekchile.cl/wp-content/uploads/2021/11/Cazafantasmas-el-Legado-Poster.jpg", Cazafantasmas: El Legado | REGIOFLIX dddd
-http://regioplay.xyz/111022/Ghostbusters.afterlife.2021.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.mubis.es/media/users/12828/291300/poster-y-trailer-de-clifford-el-gran-perro-rojo-original.jpg", Clifford El Gran Perro Rojo | REGIOFLIX
+http://regioplay.xyz/611022/Clifford.El.Gran.Perro.Rojo.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.wikia.nocookie.net/marvel/images/9/9a/Eternals_%28film%29_poster_002.png/revision/latest?cb=20210819165934&path-prefix=es", Eternals | REGIOFLIX
+http://regioplay.xyz/611022/Eternals.2021.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.alertageekchile.cl/wp-content/uploads/2021/11/Cazafantasmas-el-Legado-Poster.jpg", Cazafantasmas: El Legado | REGIOFLIX
+http://regioplay.xyz/611022/Ghostbusters.afterlife.2021.1080p-dual-lat-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Sing_2_A_Ven_y_canta_de_nuevo-222346064-large.jpg", Canta 2 | REGIOFLIX
-http://regioplay.xyz/111022/Sing.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
+http://regioplay.xyz/611022/Sing.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://hiramnoriega.com/wp-content/uploads/2021/12/6567567765765765.jpg", La casa de los abuelos | REGIOFLIX
-http://regioplay.xyz/111022/The.whole.truth.2021.1080p-dual-lat-SRREGIO.NET.mkv
+http://regioplay.xyz/611022/The.whole.truth.2021.1080p-dual-lat-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.moviementarios.com/wp-content/uploads/2021/09/EL-DIARIO-DE-GREG-POSTER.jpg", El diario de Greg | REGIOFLIX
-http://regioplay.xyz/111022/Diary.of.a.wimpy.kid.2021.1080p-dual-lat-SRREGIO.NET.mkv
+http://regioplay.xyz/611022/Diary.of.a.wimpy.kid.2021.1080p-dual-lat-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.riendoporlavida.com/wp-content/uploads/2019/04/POSTER-FRANCO-635x1024.jpg", Franco Escamilla:Bienvenido al mundo | REGIOFLIX
-http://regioplay.xyz/php/SR_REGIO_101022_/bienvenido.al.mundo.franco.escamilla.php?f=.mp4
+http://regioplay.xyz/php/SR_REGIO_511022_/bienvenido.al.mundo.franco.escamilla.php?f=.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/plexmx.info/wp-content/uploads/2021/08/E86dBHyUcAA5JXK.jpg?ssl=1", VENOM carnage liberado | REGIOFLIX
-http://regioplay.xyz/111022/Venom.let.there.be.carnage.2021.1080p-dual-lat-srregio.net.mkv
+http://regioplay.xyz/611022/Venom.let.there.be.carnage.2021.1080p-dual-lat-srregio.net.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/10/13/16/30/5386471.jpg", Por Fin Solo en Casa | REGIOFLIX
-http://regioplay.xyz/111022/Home.Sweet.Home.Alone.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
+http://regioplay.xyz/611022/Home.Sweet.Home.Alone.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/alerta-roja-ftogramas-1634823584.jpg", Alerta Roja | REGIOFLIX
-http://regioplay.xyz/111022/Red.Notice.2021.1080P-Dual-Lat-Cine-SRREGIO.NET.mkv
+http://regioplay.xyz/611022/Red.Notice.2021.1080P-Dual-Lat-Cine-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/04/poster-shang-chi-leyenda-diez-anillos-2303799.jpg?itok=bA7yKza5", Shang Chi La Leyenda de los 10 anillos | REGIOFLIX
-http://regioplay.xyz/111022/Shang.Chi.And.The.Legend.Of.The.Ten.Rings.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
+http://regioplay.xyz/611022/Shang.Chi.And.The.Legend.Of.The.Ten.Rings.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.elseptimoarte.net/carteles/a_un_paso_de_mi_89914.jpg", A un paso de mi | REGIOFLIX
-http://regioplay.xyz/111022/A.un.paso.de.m%C3%AD.2021.1080p-lat-SRREGIO.NET.mkv
+http://regioplay.xyz/611022/A.un.paso.de.m%C3%AD.2021.1080p-lat-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BOThkMDZiNGYtYmY2OC00ODQ3LTg4MzktZTY1YmI3ZjkzYWNhXkEyXkFqcGdeQXVyNjczMzgwMDg@._V1_.jpg", No body sleeps in the woods tonight | REGIOFLIX
-http://regioplay.xyz/111022/Nobody.Sleeps.In.The.Woods.Tonight.2.2021.1080P.Dual.Lat.SRREGIO.NET.mkv
+http://regioplay.xyz/611022/Nobody.Sleeps.In.The.Woods.Tonight.2.2021.1080P.Dual.Lat.SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://lh3.googleusercontent.com/proxy/n71yzMVi0V9grBF35VLn-klQSVT2szaY0GuiyQrnwzgcQkCnfugRP1eTpyO8-MmGEkKvIY5itNEZroG2huaD5WuBsSv1Ui7HdymIco9uCw", Polaroid | REGIOFLIX
-http://regioplay.xyz/111022/Polaroid.2019.1080P.Dual.Lat.SRREGIO.NET.mkv
+http://regioplay.xyz/611022/Polaroid.2019.1080P.Dual.Lat.SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://allpeliculas.ac/wp-content/uploads/2021/10/0815e542ae8eccf0e97d2df02e023f0bbTlQchCU05xJZyn4Va8gHkTeayu.jpg", Una momia en Halloween | REGIOFLIX
-http://regioplay.xyz/111022/Una.Momia.En.Halloween.%282021%29.720P.Dual.Lat.srregio.net.mkv
+http://regioplay.xyz/611022/Una.Momia.En.Halloween.%282021%29.720P.Dual.Lat.srregio.net.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc3MDQ2NTE1NF5BMl5BanBnXkFtZTgwMTk5NzE5NzM@._V1_FMjpg_UX1000_.jpg", Isabelle 2018 | REGIOFLIX
-http://regioplay.xyz/111022/Isabelle.2018.1080p-dual-lat-SRREGIO.NET.mkv
+http://regioplay.xyz/611022/Isabelle.2018.1080p-dual-lat-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/01/halloween-kills-2209579.jpg?itok=bskTW8To", Halloween Kills 2021 | REGIOFLIX
-http://regioplay.xyz/111022/Halloween.Kills.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
+http://regioplay.xyz/611022/Halloween.Kills.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/fguy1.jpg?resize=770%2C1100&ssl=1", Free Guy | REGIOFLIX
-http://regioplay.xyz/111022/Free.guy.2021.1080p-dual-lat-SRREGIO.NET.com.mkv
+http://regioplay.xyz/611022/Free.guy.2021.1080p-dual-lat-SRREGIO.NET.com.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/calle-terror.jpg?resize=800%2C1187&ssl=1", La calle del terror P1 | REGIOFLIX
-http://regioplay.xyz/111022/La.Calle.Del.Terror.%28Parte%201%29.1080P-SrRegio.Net.mkv
+http://regioplay.xyz/611022/La.Calle.Del.Terror.%28Parte%201%29.1080P-SrRegio.Net.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/08/dont_breathe_two_ver2.jpg?resize=800%2C1000&ssl=1", No respires 2 | REGIOFLIX
-http://regioplay.xyz/111022/No.Respires.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
+http://regioplay.xyz/611022/No.Respires.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/You_re_Not_Alone-709818429-mmed.jpg", You´re not alone | REGIOFLIX
-http://regioplay.xyz/111022/You%27re.not.alone..2021.1080p-dual-lat-SRREGIO.NET.mkv
+http://regioplay.xyz/611022/You%27re.not.alone..2021.1080p-dual-lat-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/fast9/posters/01.jpg", Rapidos y Furiosos 9 | REGIOFLIX
-http://regioplay.xyz/111022/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
+http://regioplay.xyz/611022/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/cinemedios.com/wp-content/uploads/2021/07/fecha-de-estreno-un-rescate-de-huevitos.jpeg?resize=640%2C831&ssl=1", Un rescate de huevitos | REGIOFLIX
-http://regioplay.xyz/111022/Un.rescate.de.huevitos.2021.1080p-lat-SRREGIO.NET.mkv
+http://regioplay.xyz/611022/Un.rescate.de.huevitos.2021.1080p-lat-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/36404-482709-20210706093527.jpg", Space Jam Una Nueva Era | REGIOFLIX
-http://regioplay.xyz/111022/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
+http://regioplay.xyz/611022/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/714W6w6bY+L._AC_SY741_.jpg", COCO | REGIOFLIX
-http://regioplay.xyz/111022/coco.mkv
+http://regioplay.xyz/611022/coco.mkv
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/pwSlzCAynIF6aEP7oxWddo7Kng2.jpg" group-title="PELICULAS", Hotel Transilvania 4: Transformanía
-https://2371755320.tapecontent.net/radosgw/KAPZJKXWmoC0X0Y/SDby_o7qInZJbIwPPD7lE4jqVaDJQfMHgSMupjKvE5wDdwyTIMxYiU8aif7ST3ePk3atUpKVgCxOdF4-fqt3rHWg4btcC3hQW2i7y5nDifx_aMritto8OmePdJMBN6PfCLfFHlgAvdU_Wf4GXX5hLGLecfLeDxnbZeUeuBt9ozP17chrYYw1XaMqcYywszhJJ2To6s3gn9Nx6tzLYArXXOEEz3wBjdNnREsnE1RdEiMb1qbgH8bdoyX3xr5qOF1XVLP46nsYPG3UuFda/wp45AD084Y8.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/pwSlzCAynIF6aEP7oxWddo7Kng2.jpg" group-title="PELICULAS", Hotel Transilvania 4: Transnía
+https://2371755320.tapecontent.net/radosgw/KAPZJKXWmoC0X0Y/HSZx2ukAN1JPiA6DHsdnKct3klCiOPAgloSi24fCF24P4NOOxVblewOepQs-bISuG0Yu5O3jOJCKMrZzvnhEmo4LpBmXpyfytdfeIuJLLkXMCaxKAkBEG2kvQrzcdiZ0kFDubpKJWbhw6Y67RcmrbdVL3bEZvwar6cfZVUOu3SUZWwLfPl6Edsk9xiFzJwZvLQGPDQC9vT5wM2rl3OwNKAiQq_Sd7FGPi3nVA-_d0G_oS_nMgZyvKOLgqoOkF12vIGomSKnYxAJ_tV35/wp45AD084Y8.mp4?stream=1
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/zpSW0AswPGYZQvLVsHbAcTzEyy3.jpg" group-title="PELICULAS", Eternals
-https://858142479.tapecontent.net/radosgw/PX9YxWp9dVs0Qgl/uorZBM4utq5dodQBLQRGsP2QvaJLEKUwYdwbztHl8X0eetYqej94ywHhOtghRkYP-ZIrrR289ejxeu5hnNsCqamSMn896lphbeMDmuApUAOMURFXvOXy0NyxqfmYsR51fIh7iAYCuXrq4QnaGXScWZdzdDZR-EOt7stdZOHIRzQARXUSmB3hqu_fIwnZ_1EGOC-5kFVRTbOFgDxIbKKE2sDJfUCYXO08HxftDG_ITvgN4MomLLq75QPayJGTKOwxVNYiP890x8UoDsIHdOTbg51cBBXU5ZnjPrbaow/B47rP2Y2mEy.mp4?stream=1
+https://867337138.tapecontent.net/radosgw/ybQlZmWX9OF1z1d/ZZzstDflzKpdcjgkDZ5V1gqAUcqEcuZZVLEnmXhtZC5CwcZM84L4MM-qb6zLqs_G5ywzsXfSUskOnL-yno2CkROuWvyjJKxb_XUJQ8s3FBotpkp05etpnY5233iSRVUsb3ORzjCAjsl3FYD276GFlyhfEEiuzabVqo0DynNvqpe6JI2XneqqwPBGHcIf3bLUTL6DWrZ0kI-U0hnBGelMEH43da5ZAFevcbZ6avkjsZN988T0uJj-TY2dUrB423440WvPFPAiYksI0WSaBW-qL3n93gyexs-w8ro-5A/B47rP2Y2mEy.mp4?stream=1
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/htpKy3nUBNtCsaTj2pWU9JwPKlj.jpg" group-title="PELICULAS", Resident Evil: Bienvenidos a Raccoon City
-https://861472345.tapecontent.net/radosgw/R4pQ1MPY7DSdr4r/ly7IYyqXUKqEonpLRzWkt6WSpB-yDFpid7NGYLSGRI0XqdbV6EqoCyt2CNSbl64AnSvlE1rLfX61UzZi0UWeKPdX6VPQG9kIjIr1DMAaKnTRH0d2MLCwGCt-YLgOcSvA25MJ9v6tmw2liZaMOrnuypE9mOKdbe9-cnPhBmeFLA4Y-HmcYQU2okeN32yHRfekguyWqqVk4YTXwlF5a50asXg4fivjPtZ_Q8MCVE1or2HMCzaEQ5Jub1eNhsbBlBwR8SwK4wLFfi9JcclfKwWdI0dplx9LLJJSCGP05w/10zdlMOXwjZ.mp4?stream=1
+https://858143368.tapecontent.net/radosgw/gLm3xKAOMdcqrjB/cNbh17R8PpIPQMbyREK8K2y0tFpktI41HOKj1s3yFB6NHMTkijUhjFcOA6gWbTttvIQCrrSJ-VzSl9gHqH0aFernkOEWV9JmurViuqGycH9oqstJmdD0-Gq1YSEsj6ygteNC2LJNTFgsyq1Y4WM5A2poLyRBSYw29ko9g-IZ-vu0DW-MYsVuwMs1W9Tt1pk8PgXTQXutE_WhVH4mDah2yQdUFONcRRB5RaGhNrR7GEbDzqqHzXWMj-9rp3ZjmR3DS1kAvifVcEIjJCvSpELEZdTvDm0YdKa2R6NeXQ/10zdlMOXwjZ.mp4?stream=1
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/ybjcJqJ4KGFYSgfDoODdRfqhGV9.jpg" group-title="PELICULAS", ¡Canta! 2
-https://2448409167.tapecontent.net/radosgw/28oAXy0L3BuZ8y0/UzipAN-H84ghaEXdzB9YociR8Ljs4Hyy1ymIhZV0lNMTi6OxARqPXYuAHgFxWRaEiSD4F_vwK9KT5qETSLRB8vNs770DngRGT4zIZZ_43Z7GSehC7t-Z5K_Ej62-cTpdASY_Rn_Tlnxhq0mlf3fRGDURXLWcmMthEs2aj_7gmZiPzm2h2mq5RxMbALdtw_P93SmDGs0Ucd2fRCimMX1MMLKh9AmwdaCZAhYqlKFBIgKsnJ8RazjUSxW5VcFRt_MsZH4Ov9VN88k1fYtV4IBILZ3WyQQMpPfI3NUFSQ/wogrv8rVGOj.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/ybjcJqJ4KGFYSgfDoODdRfqhGV9.jpg" group-title="PELICULAS", Canta! 2
+https://2448409167.tapecontent.net/radosgw/xZ6bWx32QLFkJ8d/lTITufG5ZWD4Oj6lcSEm6VEZxscfYD9XfX4lgkgiWeMmyjbWHc6cvoO82kwzsJrhdIs5nofwkrnM3O10GYTTLZAMjngymyvEsu1YLp6Rk6fSRiJlCxIpHJiWVc0tpYg66atO7uUj9bN1rpkxRTa0mZKnsfvcrvYoXo5fF-k578g1R8F--kZ4gXmMAtxFmWl70HYdTUJgXMyiJPsnnn6hvrNC_Xr3LGsXutUoOqoLEu5H9HmDIbdZvZ1ptpC7fVwAWRedmo5_PT-hqYHSLv1f_ewGZ5nsY0ewcn-iLQ/wogrv8rVGOj.mp4?stream=1
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/pZc0GpA8jPTwqHuABnSW6XwvWAi.jpg" group-title="PELICULAS", Encanto
-https://2448409167.tapecontent.net/radosgw/28oAXy0L3BuZ8y0/UzipAN-H84ghaEXdzB9YociR8Ljs4Hyy1ymIhZV0lNMTi6OxARqPXYuAHgFxWRaEiSD4F_vwK9KT5qETSLRB8vNs770DngRGT4zIZZ_43Z7GSehC7t-Z5K_Ej62-cTpdASY_Rn_Tlnxhq0mlf3fRGDURXLWcmMthEs2aj_7gmZiPzm2h2mq5RxMbALdtw_P93SmDGs0Ucd2fRCimMX1MMLKh9AmwdaCZAhYqlKFBIgKsnJ8RazjUSxW5VcFRt_MsZH4Ov9VN88k1fYtV4IBILZ3WyQQMpPfI3NUFSQ/wogrv8rVGOj.mp4?stream=1
+https://908344487.tapecontent.net/radosgw/rod9Me6Gx8cbRv8/Tinpk86-9sjB4CzW0jCEcVuQgB1fhZJvW72KgOpLEihwb2SB6f1oaXonWxOvKQYHXaud4fiJ42dhKQCd7vtuAGohghFegrD3WDs2xckzf_3oDn6eQAhLhDgxSDI2UNc94DBsY0wxvv-arQAlivAsxVf16KUUF5HUAIlmP0EZGAWNn80Ou9R3Flyb1Qe9_oNPGU61tXo0QZHx02SfizGivKPwjmolz_4ku5sF7bJHs7vZ8aE8xPBiBKgmv2vWYr5seFNpDH2O4b0pq5_krSZhiql8jBbIwjaNprGTfA/m5QJrPvv7jn-streamtape.mp4?stream=1
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/hF7jgEhP4ypR2oS5BQD1pxbg7QY.jpg" group-title="PELICULAS", Matrix Resurrecciones
 https://pelisloadtop.com/server31/5d00633e72f5778d0f03828f359fee40/EP.0.2.v1.1640200473.720.m3u8
@@ -461,7 +456,7 @@ https://pelisloadtop.com/server43/f391b6da30384e449961a8749707c50e/EP.0.1.v0.164
 https://pelisloadtop.com/server34/643da01ccb970d20cd2a706e66bd5f87/EP.0.2.v2.1636761970.720.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1kkVXCAy11pZEyVn1BJsJTN2kOc.jpg" group-title="PELICULAS", Ron da Error
-https://861520517.tapecontent.net/radosgw/M96zxvPVaLtm2J7/4JU4C7rE-Cus9EHNhFVvaY5qNvvu3u9f7RjUSn16miLVFPpj7x_yIyTc2k1ch4VuJDktfF10tQ45gH2BdgVCLe2saiibnLR-73Wpe0i_IKLdx8LPeEzFt02AiP4yipmmwE3QFpz4QCI8U_j8cIKLWU2Vh7oItiKmR6RV8sT-kW-g49TRRUG23PTBzJBzOwqkBofhb-1KIAmKhp91zKDXumwLeGVyQv5YF4O1qvP0OlDSWsxw1j_eJKJeBsweFwc0lHtexoLnNwK_Kw8CUUqubGQfBetFL7ReGmoJxA/r4ZEeJbLJ8V-streamtape.mp4?stream=1
+https://861520517.tapecontent.net/radosgw/M96zxvPVaLtm2J7/wyNfQ4q-lDTronULK6dc7W5E3VSx6zeMeW2iHQTIi4RvhxPIaPZE7pbqtHN8Lr8SsqDrXyNU6NCu0lp-YpWrjRKMvh4IQNxb_9PZdRfR6XcWCdcKBNG14u0AgX5A-UPmvHFgS352uS8h6YtR1AEKJkWYGiCKrLjugMCn0MYpVnAOVxrQ3Ar9yhGUJZvOcpRCX8tyk_Dk9Jz7IJetGJlvKUjAMAMSxSF8OC1v6B4n3EhT-4sdCnCHm_HJUqxNjV4njFgsx1fF3_eGNBf9RukBwSiWoFt4J3WHYk7MkQ/r4ZEeJbLJ8V-streamtape.mp4?stream=1
 
 #EXTINF:-1 tvg-logo="https://img.repelis.id/cover/noche-de-fuego.png" group-title="PELICULAS", Noche de fuego
 https://pelisloadtop.com/server39/c6815811873c724ca6d287d9e1847295/EP.0.2.v0.1637313006.720.m3u8
@@ -473,4 +468,4 @@ https://pelisloadtop.com/server29/bdc8089ce61461f9000b3a562685e70b/EP.0.2.v0.163
 https://pelisloadtop.com/server12/113fd9a4794e652d29cc63a15974ca80/EP.0.1.v0.1635441121.720.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.repelis.id/cover/la-leyenda-del-jinete-sin-cabeza-1572276606.jpg" group-title="PELICULAS", La Leyenda del Jinete Sin Cabeza
-https://pelisloadtop.com/server33/03ae277dbefa1014d4849aa1707a7f1b/EP.0.1.v0.1635489911.full.m3u8?mac=EdLfy3i3zzzVFMxamKFDK%2Bra3B6oUzt374uoRNegCv8%3D&expiry=1642301637697
+https://pelisloadtop.com/server33/03ae277dbefa1014d4849aa1707a7f1b/EP.0.1.v0.1635489911.full.m3u8?mac=wf0OZm70MgDhuBqs5HQJP6JDVR9CVOIlCm9APBse%2BHs%3D&expiry=1642462687510
