@@ -357,7 +357,10 @@ https://streamyes.alsolnet.com/buturama/live/chunklist_w968535936.m3u8
 https://edge.teveo.com.co/live/AeAAAgAJAAFFA1IAyADIQCAAAAAAAAAAAmBX3VGq9wMSAAAA/chunklist_w1152897673.m3u8
 
 
-
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://sm.ign.com/ign_es/screenshot/default/fe0hiusviaml5nj_mtu1.jpg", Matrix Resurecciones | REGIOFLIX
+http://regioplay.xyz/php/SR_REGIO_511022_/matrix2021.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cinembrollos.files.wordpress.com/2021/06/hotel_transylvania_transformania.jpg", Hotel Transylvania Transformania | REGIOFLIX
+http://regioplay.xyz/php/SR_REGIO_511022_/hoteltransylvaniatransformania.php?f=.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.mubis.es/media/users/12828/291300/poster-y-trailer-de-clifford-el-gran-perro-rojo-original.jpg", Clifford El Gran Perro Rojo | REGIOFLIX
 http://regioplay.xyz/611022/Clifford.El.Gran.Perro.Rojo.SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://static.wikia.nocookie.net/marvel/images/9/9a/Eternals_%28film%29_poster_002.png/revision/latest?cb=20210819165934&path-prefix=es", Eternals | REGIOFLIX
