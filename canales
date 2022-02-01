@@ -1,6 +1,6 @@
 
 #EXTINF:-1 tvg-logo="https://mix24-7.com/wp-content/uploads/2018/07/CANAL-TOP-100.jpg" group-title="MIX", Top 100
-https://mix247.ml:444/TocaHits/Top100Mix24-7/chunks.m3u8?nimblesessionid=426178
+https://mix247.ml:444/TocaHits/Top100Mix24-7/chunks.m3u8?nimblesessionid=495444
 
 #EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/player_image/public/2021-11/Oldies%2520Hits%2520Television%2520de%2520Costa%2520Rica.png?itok=DJmiL1V7" group-title="MIX",  Oldies Hits TV
 https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w1783573940.m3u8
@@ -357,6 +357,17 @@ https://streamyes.alsolnet.com/buturama/live/chunklist_w968535936.m3u8
 https://edge.teveo.com.co/live/AeAAAgAJAAFFA1IAyADIQCAAAAAAAAAAAmBX3VGq9wMSAAAA/chunklist_w1152897673.m3u8
 
 
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://img.ecartelera.com/noticias/fotos/66900/66992/2.jpg", Spider Man No Way Home 2021 | REGIOFLIX
+http://regioplay.xyz/php/SR_REGIO_511022_/SpiderManNoWayHome.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/08/Volver_al_Futuro_Poster.jpg/revision/latest?cb=20201122071805&path-prefix=es", Volver al futuro | REGIOFLIX
+http://regioplay.xyz/php/SR_REGIO_511022_/volver.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/51URcEemjTL._AC_.jpg", Volver al futuro 2 | REGIOFLIX
+http://regioplay.xyz/php/SR_REGIO_511022_/volver2.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/9a/Volver_al_Futuro_III_Poster.jpg/revision/latest?cb=20201122065552&path-prefix=es", Volver al futuro 3 | REGIOFLIX
+http://regioplay.xyz/php/SR_REGIO_511022_/volver3.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.pinimg.com/originals/91/f7/f1/91f7f1bfc1232cb4b192c2a45a3c8015.jpg", Sangre por Sangre | REGIOFLIX
+http://regioplay.xyz/php/SR_REGIO_511022_/sangrexsangre.php?f=.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://sm.ign.com/ign_es/screenshot/default/fe0hiusviaml5nj_mtu1.jpg", Matrix Resurecciones | REGIOFLIX
 http://regioplay.xyz/php/SR_REGIO_511022_/matrix2021.php?f=.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://cinembrollos.files.wordpress.com/2021/06/hotel_transylvania_transformania.jpg", Hotel Transylvania Transformania | REGIOFLIX
@@ -413,61 +424,115 @@ http://regioplay.xyz/611022/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
 http://regioplay.xyz/611022/coco.mkv
 
 
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/the-ice-age-adventures-of-buck-wild-2-1643423404.jpg" group-title="PELÍCULAS", Ice Age: Las aventuras de Buck
+https://pelisloadtop.com/server37/e04ca83c0b01db121c8d56290709a175/EP.0.2.v0.1643429332.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/pwSlzCAynIF6aEP7oxWddo7Kng2.jpg" group-title="PELICULAS", Hotel Transilvania 4: Transnía
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/the-forever-purge-2-1625538963.jpg" group-title="PELÍCULAS", La Purga: Infinita
+https://pelisloadtop.com/server19/d14ce25187ccff233535c3bd5dd16927/EP.0.1.v3.1635338255.full.m3u8?mac=5cKNOG16QNJ5bPEOF29F62tFf%2BnZZ1T9TmgTTOezMLs%3D&expiry=1643737223470
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/mediterraneo-2-1643261406.jpg" group-title="PELÍCULAS", Mediterráneo
+https://pelisloadtop.com/server43/0d640cc7f38dd79b95f6f53ceaee6f79/EP.0.1.v0.1643429465.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/the-requin-2-1643261165.jpg" group-title="PELÍCULAS", Sharkwater
+https://pelisloadtop.com/server35/f7c2ca8f40c8af7a284c67391c3e04de/EP.0.1.v0.1643334271.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/shark-season-2-1642831084.jpg" group-title="PELÍCULAS", Shark Season
+https://pelisloadtop.com/server07/b7e6f6290c8f1ea9d8ecae6593d0a5ef/EP.0.2.v0.1642905391.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/andra-sidan-2-1642488124.jpg" group-title="PELÍCULAS", Andra sidan
+https://pelisloadtop.com/server06/a39b94cabb1b99d6f498318b76118f7a/EP.0.2.v0.1642494385.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/castle-in-the-ground-2-1642830963.jpg" group-title="PELÍCULAS", Castle in the Ground
+https://pelisloadtop.com/server46/9b9f3caa2615e14abfa3ee3fbfdfd884/EP.0.2.v0.1642833022.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/one-shot-2-1642297563.jpg" group-title="PELÍCULAS", One Shot
+https://pelisloadtop.com/server31/b5fbb188eb0a71d7081d768e88666b48/EP.0.2.v0.1642306381.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/nine-days-2-1641555243.jpg" group-title="PELÍCULAS", Nine Days
+https://pelisloadtop.com/server43/a97b8499c403b4243c31efd060b7fd32/EP.0.2.v0.1641560810.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/llanto-maldito-2-1635843871.jpg" group-title="PELÍCULAS", Llanto Maldito
+https://pelisloadtop.com/server10/e5e5d315285fe779ad1769f0adf2946a/EP.0.2.v1.1636757992.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/apex-2-1636075685.jpg" group-title="PELÍCULAS", Apex
+https://pelisloadtop.com/server37/aef2c43ff1802e589c67fe3ff135111c/EP.0.2.v2.1636748622.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/paranormal-activity-next-of-kin-2-1635498736.jpg" group-title="PELÍCULAS", Paranormal Activity: Next of Kin
+https://pelisloadtop.com/server10/2f6905214720c57e0aa253c1b5323ddf/EP.0.2.v1.1638693492.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/hypnotic-2-1635472208.jpg" group-title="PELÍCULAS", Hipnótico (Hypnotic)
+https://pelisloadtop.com/server05/7370ef24b002c010909f04e40e6f1d07/EP.0.2.v0.1635477882.full.m3u8?mac=nEr9a%2BaTS8rsimDLRnN9p6gu60VE%2FgdfVJmQ0J26naU%3D&expiry=1643737999261
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/the-deep-house-2-1635302771.jpg" group-title="PELÍCULAS", La casa de las profundidades
+https://pelisloadtop.com/server41/46587fef3c25db877b114fcd0e913cb6/EP.0.2.v2.1642927342.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/the-night-house-2-1633480802.jpg" group-title="PELÍCULAS", The Night House
+https://pelisloadtop.com/server15/e42ca0ae080bd7dc02c8901cee381aae/EP.0.2.v1.1635117857.full.m3u8?mac=gMtu5s0C01hnqIFHILkVCJs7lb38TZ6KdQ9LN%2FyeApQ%3D&expiry=1643738184909
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/swim-2-1631937971.jpg" group-title="PELÍCULAS", Swim
+https://pelisloadtop.com/server10/4eb62da4f55ab77ee4dbc14cf3bf832f/EP.0.2.v0.1636750283.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/pwSlzCAynIF6aEP7oxWddo7Kng2.jpg" group-title="PELÍCULAS", Hotel Transilvania 4: Transnía
 https://pelisloadtop.com/server43/eaa01eba5fbe4f8ab28941ba2133388c/EP.0.2.v0.1642257147.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/zpSW0AswPGYZQvLVsHbAcTzEyy3.jpg" group-title="PELICULAS", Eternals
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/zpSW0AswPGYZQvLVsHbAcTzEyy3.jpg" group-title="PELÍCULAS", Eternos
 https://pelisloadtop.com/server35/3273bb5d065ed124a59a1919a0de61ed/EP.0.1.v4.1642048323.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/htpKy3nUBNtCsaTj2pWU9JwPKlj.jpg" group-title="PELICULAS", Resident Evil: Bienvenidos a Raccoon City
-https://858143368.tapecontent.net/radosgw/gLm3xKAOMdcqrjB/pLQn6QCbxUO-BCRrGnHSOAo6U0gDdegjY-GBBWdEEcKZ5I6gMpOQDYoCrUuAPgKnc3TfhdAIgqrVjIe35NA-xvL0WiXWJJPmFPC0pXYIlFs4p0vfDM1yLg1frM2PcvuT-6_xEWdk7LtohZWLTJ7oL2NVZ8x3bh1ALRvGUBva8e8NbdIM61Jmcx5ZDcbk9R2gCXDcuAZE33M_CWuFw5EpXlFEXyBvpJ2FAJwjUJ8WMpBrNcFzaSYaKANcgKiRRyH21VbK-ocSPdRRV9Ucfs3XZPgdPhwXkGWx2i3HFg/10zdlMOXwjZ.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/htpKy3nUBNtCsaTj2pWU9JwPKlj.jpg" group-title="PELÍCULAS", Resident Evil: Bienvenidos a Raccoon City
+https://pelisloadtop.com/server08/4407b12fe4c2c0373ac5126640412a5a/EP.0.1.v2.1642047181.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/ybjcJqJ4KGFYSgfDoODdRfqhGV9.jpg" group-title="PELICULAS", Canta! 2
-https://2448409167.tapecontent.net/radosgw/xZ6bWx32QLFkJ8d/5X28TdAd9htrBHK_HtYIkk5kVCWI9jwtw2kLGFNxbjHlM4Cfp80g-KNpjClNHPqpBkFIXEQc3MYDHpC-yS1ZXs4ezCrmVsbMJko0ChXEC9IJGgTCFFNP_phfXXQhpYQiLlkEi5sI8pIMDnigvJfBQaWSN4ATDd6xZOdzF5cUP9XzPP1xFYpCN39GrlXjZyi4ILesFjRdZ7Ou6_aOhRZ3OL5fxQTyV-UgebE0STHdAa7pVnkVkgfl-NtFVGUaxTPPBLDDiZhvDfTav9-3uDs23_rYwQV4Xfp_VmvG0Q/wogrv8rVGOj.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/ybjcJqJ4KGFYSgfDoODdRfqhGV9.jpg" group-title="PELÍCULAS", Canta! 2
+https://pelisloadtop.com/server32/0e05c35105bf4376afc10ab405f1cc44/EP.0.2.v0.1642950445.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/pZc0GpA8jPTwqHuABnSW6XwvWAi.jpg" group-title="PELICULAS", Encanto
-https://908344487.tapecontent.net/radosgw/bKJY2jDz0WSK3z/Rtg58J5eYOe-HLtTU7JUP5yosCFwpTyysa6w_BpRIlpTirXb3vv_RHHlpLpLxMCflR-M1_TiR7nE4NDevJh0ABrLnRSgkXovwBPJbh5DddXD1iVogmBe18hiFl6RRlWLJJnHQ92AV4eW51edEIw1FZzWSiAPciFc34of91YoeJYUU3WmZvKoFPtey4Q38xCdYPZ9-u91kfksuoW7LJOWU02PPSW23apJBuNal77dLTMLeIjKuNa8dGoSAAY9PLjEzJIwlcNCY7oxuMmihjG26-lZhJuEEwaQVgNmFQ/m5QJrPvv7jn-streamtape.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/pZc0GpA8jPTwqHuABnSW6XwvWAi.jpg" group-title="PELÍCULAS", Encanto
+https://www1203.ff-03.com/token=LZ9760aVO3msL9BDmr4Gbg/1643742817/191.95.0.0/191/f/cd/61b80dd25b2b55f175c4debea7c88cdf-480p.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/hF7jgEhP4ypR2oS5BQD1pxbg7QY.jpg" group-title="PELICULAS", Matrix Resurrecciones
-https://pelisloadtop.com/server31/5d00633e72f5778d0f03828f359fee40/EP.0.1.v6.1642305397.720.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/hF7jgEhP4ypR2oS5BQD1pxbg7QY.jpg" group-title="PELÍCULAS", Matrix Resurrecciones
+https://pelisloadtop.com/server31/5d00633e72f5778d0f03828f359fee40/EP.0.2.v1.1640200473.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/osYbtvqjMUhEXgkuFJOsRYVpq6N.jpg" group-title="PELICULAS", Spider-Man No Way Home 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/osYbtvqjMUhEXgkuFJOsRYVpq6N.jpg" group-title="PELÍCULAS", Spider-Man No Way Home 
 https://pelisloadtop.com/server46/10e5ce061e8705eb0098f584f85c1858/EP.0.2.v0.1640193761.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/un-lugar-en-silencio.jpg" group-title="PELICULAS", Un Lugar en Silencio
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/osYbtvqjMUhEXgkuFJOsRYVpq6N.jpg" group-title="PELÍCULAS", Spider-Man No Way Home 
+https://www1155.ff-03.com/token=jz7-FlMJ5fx6sUat0Rey5A/1643742951/191.95.0.0/191/f/6e/c550e3ae74c7182a08dfc8469a9fa6ef-480p.mp4
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/spider-man-un-nuevo-universo.jpg" group-title="PELÍCULAS", Spider-Man: Un Nuevo Universo
+https://pelisloadtop.com/server10/4e3c8b5937e907cbe552c79accd207a6/EP.0.1.v0.1636741995.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/un-lugar-en-silencio.jpg" group-title="PELÍCULAS", Un Lugar en Silencio
 https://pelisloadtop.com/server06/ecfd75857eaddb446a199090154e8351/EP.0.1.v1.1635443367.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/95m7s0jg0UHP3bIuwZkA12fxTl9.jpg" group-title="PELICULAS", Un lugar en silencio Parte II
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/95m7s0jg0UHP3bIuwZkA12fxTl9.jpg" group-title="PELÍCULAS", Un lugar en silencio Parte II
 https://pelisloadtop.com/server25/ca380d9df88f1651933eb39e7d971fe5/EP.0.1.v5.1635285079.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/los-leones-2-1590638406.jpg" group-title="PELICULAS", Los Leones
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/los-leones-2-1590638406.jpg" group-title="PELÍCULAS", Los Leones
 https://pelisloadtop.com/server23/14536adfa8a048eaf3b520a61426ea79/EP.0.1.v0.1635512871.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/the-jack-in-the-box-2-1584806164.jpg" group-title="PELICULAS", The Jack in the Box
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/the-jack-in-the-box-2-1584806164.jpg" group-title="PELÍCULAS", The Jack in the Caja
 https://pelisloadtop.com/server37/a5c6eeecdeadbb3e5df93ae9da8e6fd1/EP.0.1.v1.1640873319.720.m3u8
 
-#XTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/yPZ3I27oeSm4zVesgMxXlhW8GDe.jpg" group-title="PELICULAS", Equipo foca
+#XTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/yPZ3I27oeSm4zVesgMxXlhW8GDe.jpg" group-title="PELÍCULAS", Equipo foca
 https://pelisloadtop.com/server09/96296202dc1309dedc2a2d1ea321427a/EP.0.0.v0.1641242276.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/perseguida-2-1574767205.jpg" group-title="PELICULAS", Perseguida
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/perseguida-2-1574767205.jpg" group-title="PELÍCULAS", Perseguida
 https://pelisloadtop.com/server43/f391b6da30384e449961a8749707c50e/EP.0.1.v0.1640538908.720.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg" group-title="PELICULAS", Finch 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg" group-title="PELÍCULAS", Finch
 https://pelisloadtop.com/server34/643da01ccb970d20cd2a706e66bd5f87/EP.0.2.v2.1636761970.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1kkVXCAy11pZEyVn1BJsJTN2kOc.jpg" group-title="PELICULAS", Ron da Error
-https://www345.akamai-cdn-content.com/hls/tysxf2uces66j6cdacrrftkufddvdi35scfvukunskrf46shhv2xkl27llzq/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1kkVXCAy11pZEyVn1BJsJTN2kOc.jpg" group-title="PELÍCULAS", Ron da Error
+https://uwe179o.dood.video/u5kj7x3erlglsdgge7megiq5jt6lwftdqrqr4tptkv7xr52uzmvqxhef65sq/gntbp6187s~DyHgqcIS4R?token=h7ej2ixnkdfgrs4fminbez1b&expiry=1643728925112
 
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/noche-de-fuego.png" group-title="PELICULAS", Noche de fuego
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/noche-de-fuego.png" group-title="PELÍCULAS", Noche de fuego
 https://pelisloadtop.com/server39/c6815811873c724ca6d287d9e1847295/EP.0.2.v0.1637313006.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/akillas-escape-2-1637544844.jpg" group-title="PELICULAS", Akilla’s Escape
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/akillas-escape-2-1637544844.jpg" group-title="PELÍCULAS", La fuga de Akilla
 https://pelisloadtop.com/server29/bdc8089ce61461f9000b3a562685e70b/EP.0.2.v0.1637555946.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/depredadores.jpg" group-title="PELICULAS", Depredadores
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/depredadores.jpg" group-title="PELÍCULAS", Depredadores
 https://pelisloadtop.com/server12/113fd9a4794e652d29cc63a15974ca80/EP.0.1.v0.1635441121.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/la-leyenda-del-jinete-sin-cabeza-1572276606.jpg" group-title="PELICULAS", La Leyenda del Jinete Sin Cabeza
-https://pelisloadtop.com/server33/03ae277dbefa1014d4849aa1707a7f1b/EP.0.1.v0.1635489911.full.m3u8?mac=QTBnp3cI0XisKwNVI42QpWGpWrCDY9Ne0RdSs79drbI%3D&expiry=1642651774396
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/la-leyenda-del-jinete-sin-cabeza-1572276606.jpg" group-title="PELÍCULAS", La Leyenda del Jinete sin cabeza
+https://pelisloadtop.com/server33/03ae277dbefa1014d4849aa1707a7f1b/EP.0.1.v0.1635489911.full.m3u8?mac=37LWcUktW6JUmbuGYgKLZ4XCq70%2F8i%2FIVU7JJOAfAgE%3D&expiry=1643736086857
+
+
