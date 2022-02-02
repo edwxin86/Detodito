@@ -43,7 +43,37 @@ https://5ee7c2b857b7f.streamlock.net/latino/latino/chunklist_w57373391.m3u8
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/chunklist_w1250248479_b2592000.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.spbtv.com/spbtv-world-production/51871e0498c3e562504b.png" group-title="MIX", Jenny live
-https://59ec5453559f0.streamlock.net/JennyLive/smil:JennyLiveWEB/chunklist_w1176299211_b1896000.m3u8
+https://59ec5453559f0.streamlock.net/JennyLive/smil:JennyLiveWEB/chunklist_w1176299211_b1896000.m3u8 
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=268x10000:format=png/path/s5c68457729779a61/image/i9e06b630cbc2629e/version/1638235381/image.png" group-title="CANALES", PLANETATV MOVIE
+https://mediacpstreamchile.com:1936/8140/8140/chunklist_w821307206.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=268x10000:format=png/path/s5c68457729779a61/image/i9e06b630cbc2629e/version/1638235381/image.png" group-title="CANALES", PLANETATV MOVIE
+https://mediacpstreamchile.com:1936/8140/8140/chunklist_w911375388.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5c68457729779a61/image/i631ded9f9f6dcfe3/version/1638240067/image.png" group-title="CANALES", EVASTREAM 
+https://stmv.panel.mivideo.pro/evastream/evastream/chunklist_w1360367907.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=268x10000:format=png/path/s5c68457729779a61/image/ic805a4bf67209e97/version/1638234446/image.png" group-title="CANALES", PLANETATV KIDS
+https://mediacpstreamchile.com:1936/8152/8152/chunklist_w1011191927.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=268x10000:format=png/path/s5c68457729779a61/image/ic805a4bf67209e97/version/1638234446/image.png" group-title="CANALES", PLANETATV KIDS
+https://mediacpstreamchile.com:1936/8152/8152/chunklist_w2035519650.m3u8
+
+#EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png" group-title="CANALES", Planetatv Music 
+https://mediacpstreamchile.com:1936/8042/8042/chunklist_w745526868.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5c68457729779a61/image/if85503b2ab794ab3/version/1638209020/image.png" group-title="CANALES", CSTV
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/chunklist_w410592523.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5c68457729779a61/image/i0a5320aa2e143c4d/version/1638201121/image.jpg" group-title="CANALES", ENERGEEK 
+https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w1878620239.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5c68457729779a61/image/i88c40f5d0cf8d44c/version/1638297801/image.jpg" group-title="CANALES", TV SALUD
+https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1378368596.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5c68457729779a61/image/i88c40f5d0cf8d44c/version/1638297801/image.jpg" group-title="CANALES", TV SALUD
+https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w42229704.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cncpasto.com/wp-content/uploads/2018/04/Untitled-1.png" group-title="CANALES", CNC
 https://hvtrafico.ddns.net/pastocnc9/cnc9/chunklist_w1140074445.m3u8
