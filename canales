@@ -1,6 +1,4 @@
 
-#EXTINF:-1 tvg-logo="https://mix24-7.com/wp-content/uploads/2018/07/CANAL-TOP-100.jpg" group-title="MIX", Top 100
-https://mix247.ml:444/TocaHits/Top100Mix24-7/chunks.m3u8?nimblesessionid=495444
 
 #EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/player_image/public/2021-11/Oldies%2520Hits%2520Television%2520de%2520Costa%2520Rica.png?itok=DJmiL1V7" group-title="MIX",  Oldies Hits TV
 https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w1783573940.m3u8
@@ -45,17 +43,30 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/chunklist_w12502484
 #EXTINF:-1 tvg-logo="https://s3.spbtv.com/spbtv-world-production/51871e0498c3e562504b.png" group-title="MIX", Jenny live
 https://59ec5453559f0.streamlock.net/JennyLive/smil:JennyLiveWEB/chunklist_w1176299211_b1896000.m3u8 
 
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=268x10000:format=png/path/s5c68457729779a61/image/i9e06b630cbc2629e/version/1638235381/image.png" group-title="CANALES", PLANETATV MOVIE
-https://mediacpstreamchile.com:1936/8140/8140/chunklist_w821307206.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="" group-title="CANALES",Canal 9 bio bio
+https://unlimited1-us.dps.live/c9/c9.smil/c9/livestream3/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mlu6o1cxzib9.i.optimole.com/TzPm5go-L5Nb-LPw/w:auto/h:auto/q:90/https://serenotv.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2021/10/Canal-Latin-Zone-TV-en-vivo-300x193.jpg.webp" group-title="CANALES", Latin Zone Tv
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://mlu6o1cxzib9.i.optimole.com/TzPm5go-co0MmWFu/w:auto/h:auto/q:90/https://serenotv.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2022/01/canal-carolina-tv-en-vivo-300x193.jpg.webp" group-title="CANALES", Carolina tv
+https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mlu6o1cxzib9.i.optimole.com/TzPm5go-5ylrT3mB/w:auto/h:auto/q:90/https://serenotv.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2022/01/Canal-Mi-TV-Television-Clasica-en-vivo-300x193.jpg.webp" group-title="CANALES", Mi Tv Clasica
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mlu6o1cxzib9.i.optimole.com/TzPm5go-UU3CHRXg/w:auto/h:auto/q:90/https://serenotv.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2022/01/Canal-57-vivo-300x193.jpg.webp" group-title="CANALES", Canal 57
+https://593b04c4c5670.streamlock.net/8148/8148/chunklist_w799446392.m3u8
+
+#EXTINF:-1 tvg-logo="https://mlu6o1cxzib9.i.optimole.com/TzPm5go-lRQ354TL/w:auto/h:auto/q:90/https://serenotv.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2021/11/Canal-punt-3-espana-en-vivo-300x193.jpg.webp" group-title="CANALES", Canal Punt3
+https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=268x10000:format=png/path/s5c68457729779a61/image/i9e06b630cbc2629e/version/1638235381/image.png" group-title="CANALES", PLANETATV MOVIE
 https://mediacpstreamchile.com:1936/8140/8140/chunklist_w911375388.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5c68457729779a61/image/i631ded9f9f6dcfe3/version/1638240067/image.png" group-title="CANALES", EVASTREAM 
-https://stmv.panel.mivideo.pro/evastream/evastream/chunklist_w1360367907.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=268x10000:format=png/path/s5c68457729779a61/image/ic805a4bf67209e97/version/1638234446/image.png" group-title="CANALES", PLANETATV KIDS
-https://mediacpstreamchile.com:1936/8152/8152/chunklist_w1011191927.m3u8?PlaylistM3UCL
+https://mediacpstreamchile.com:1936/evavision/evavision/chunklist_w2053024799.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=268x10000:format=png/path/s5c68457729779a61/image/ic805a4bf67209e97/version/1638234446/image.png" group-title="CANALES", PLANETATV KIDS
 https://mediacpstreamchile.com:1936/8152/8152/chunklist_w2035519650.m3u8
@@ -65,12 +76,6 @@ https://mediacpstreamchile.com:1936/8042/8042/chunklist_w745526868.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5c68457729779a61/image/if85503b2ab794ab3/version/1638209020/image.png" group-title="CANALES", CSTV
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/chunklist_w410592523.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5c68457729779a61/image/i0a5320aa2e143c4d/version/1638201121/image.jpg" group-title="CANALES", ENERGEEK 
-https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w1878620239.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5c68457729779a61/image/i88c40f5d0cf8d44c/version/1638297801/image.jpg" group-title="CANALES", TV SALUD
-https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1378368596.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5c68457729779a61/image/i88c40f5d0cf8d44c/version/1638297801/image.jpg" group-title="CANALES", TV SALUD
 https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w42229704.m3u8
@@ -454,11 +459,53 @@ http://regioplay.xyz/611022/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
 http://regioplay.xyz/611022/coco.mkv
 
 
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/blade-runner-2049.jpg" group-title="PELÍCULAS", Blade Runner 2049
+https://pelisloadtop.com/server24/d168955d88ee1a76596781b7ea7ca53c/EP.0.1.v0.1635440713.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/el-corredor-del-laberinto-las-pruebas.jpg" group-title="PELÍCULAS", Maze Runner: Correr o Morir
+https://pelisloadtop.com/server25/bcf15f1d6cc7692e2f809bac496fe03c/EP.0.1.v1.1635475947.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/maze-runner-prueba-de-fuego.jpg" group-title="PELÍCULAS", Maze Runner: Prueba De Fuego
+https://pelisloadtop.com/server31/7f41b3bd2d5f11a79711b372b952835f/EP.0.1.v1.1636980977.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/el-corredor-del-laberinto-la-cura-mortal.jpg" group-title="PELÍCULAS", El Corredor del Laberinto: La Cura Mortal
+https://pelisloadtop.com/server30/061daee05ae46f3f101029608e755ac0/EP.0.2.v0.1635161939.full.m3u8?mac=lSqz8mE817cs%2Fs63DGEec%2BL6il3JIge0vgROmGlOm3M%3D&expiry=1644537080746
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/bird-box-a-ciegas.jpg" group-title="PELÍCULAS", Bird Box: A ciegas
+https://pelisloadtop.com/server15/c411aee7538e51f6d0448b9b53262e67/EP.0.1.v0.1635479169.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/gonjiam-hospital-maldito.jpg" group-title="PELÍCULAS", Gonjiam: Psiquiatrico Maldito
+https://pelisloadtop.com/server33/368534c6b0d7e7e435065edb62eafbea/EP.0.1.v0.1635488214.1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/la-morgue.jpg" group-title="PELÍCULAS", La Morgue
+https://pelisloadtop.com/server27/895b3135d2dd76624fefca71887f57f5/EP.0.1.v0.1635807492.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/freddy-vs-jason.jpg" group-title="PELÍCULAS", Freddy vs. Jason
+https://pelisloadtop.com/server12/c1aa93c60baee546c5d7ffbe473f7048/EP.0.1.v0.1635438892.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/13-fantasmas.jpg" group-title="PELÍCULAS", 13 Fantasmas
+https://pelisloadtop.com/server23/dd6429a60a461991e6b9d186cbe08a65/EP.0.1.v0.1635457727.1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/la-armadura-de-dios.jpg" group-title="PELÍCULAS", La Armadura de Dios
+https://pelisloadtop.com/server08/6d6dbc3cd312834e93c5b9f56a04a284/EP.0.1.v0.1637075226.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/la-armadura-de-dios-2-operacion-condor.jpg" group-title="PELÍCULAS", La Armadura de Dios 2: Operación Cóndor
+https://pelisloadtop.com/server09/8f38648e9226a4512a4d134aab42eb5f/EP.0.1.v0.1637013724.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/no-manches-frida.jpg" group-title="PELÍCULAS", No Manches Frida
+https://pelisloadtop.com/server15/05c38c474d0b964615d94af76dac947b/EP.0.1.v0.1635434102.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/no-manches-frida-2.jpg" group-title="PELÍCULAS", No manches Frida 2
+https://pelisloadtop.com/server35/dc614df461df7d14e498afedf1f04c4b/EP.0.1.v2.1636734262.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/arrastrame-al-infierno-1573853407.jpg" group-title="PELÍCULAS", Arrástrame al Infierno
+https://pelisloadtop.com/server30/c53e16038fac1cd5d5da84012276e3e2/EP.0.1.v0.1635437522.360.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.repelis.id/cover/the-ice-age-adventures-of-buck-wild-2-1643423404.jpg" group-title="PELÍCULAS", Ice Age: Las aventuras de Buck
 https://pelisloadtop.com/server37/e04ca83c0b01db121c8d56290709a175/EP.0.2.v0.1643429332.720.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.repelis.id/cover/the-forever-purge-2-1625538963.jpg" group-title="PELÍCULAS", La Purga: Infinita
-https://pelisloadtop.com/server19/d14ce25187ccff233535c3bd5dd16927/EP.0.1.v3.1635338255.full.m3u8?mac=5cKNOG16QNJ5bPEOF29F62tFf%2BnZZ1T9TmgTTOezMLs%3D&expiry=1643737223470
+https://pelisloadtop.com/server19/d14ce25187ccff233535c3bd5dd16927/EP.0.1.v3.1635338255.full.m3u8?mac=B1muM4jzSjmyhVP2JK7rwOPX297lvFrNiZhUPP%2FA73s%3D&expiry=1644538759078
 
 #EXTINF:-1 tvg-logo="https://img.repelis.id/cover/mediterraneo-2-1643261406.jpg" group-title="PELÍCULAS", Mediterráneo
 https://pelisloadtop.com/server43/0d640cc7f38dd79b95f6f53ceaee6f79/EP.0.1.v0.1643429465.720.m3u8
@@ -491,13 +538,10 @@ https://pelisloadtop.com/server37/aef2c43ff1802e589c67fe3ff135111c/EP.0.2.v2.163
 https://pelisloadtop.com/server10/2f6905214720c57e0aa253c1b5323ddf/EP.0.2.v1.1638693492.720.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.repelis.id/cover/hypnotic-2-1635472208.jpg" group-title="PELÍCULAS", Hipnótico (Hypnotic)
-https://pelisloadtop.com/server05/7370ef24b002c010909f04e40e6f1d07/EP.0.2.v0.1635477882.full.m3u8?mac=nEr9a%2BaTS8rsimDLRnN9p6gu60VE%2FgdfVJmQ0J26naU%3D&expiry=1643737999261
+https://pelisloadtop.com/server05/7370ef24b002c010909f04e40e6f1d07/EP.0.2.v0.1635477882.full.m3u8?mac=pntDpLBGYhlG0orMmDpDBSONrwF8I4l2WbX2co69d7M%3D&expiry=1644538859927
 
 #EXTINF:-1 tvg-logo="https://img.repelis.id/cover/the-deep-house-2-1635302771.jpg" group-title="PELÍCULAS", La casa de las profundidades
 https://pelisloadtop.com/server41/46587fef3c25db877b114fcd0e913cb6/EP.0.2.v2.1642927342.720.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/the-night-house-2-1633480802.jpg" group-title="PELÍCULAS", The Night House
-https://pelisloadtop.com/server15/e42ca0ae080bd7dc02c8901cee381aae/EP.0.2.v1.1635117857.full.m3u8?mac=gMtu5s0C01hnqIFHILkVCJs7lb38TZ6KdQ9LN%2FyeApQ%3D&expiry=1643738184909
 
 #EXTINF:-1 tvg-logo="https://img.repelis.id/cover/swim-2-1631937971.jpg" group-title="PELÍCULAS", Swim
 https://pelisloadtop.com/server10/4eb62da4f55ab77ee4dbc14cf3bf832f/EP.0.2.v0.1636750283.720.m3u8
